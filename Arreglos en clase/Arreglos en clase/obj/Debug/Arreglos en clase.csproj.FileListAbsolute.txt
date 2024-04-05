@@ -1,0 +1,7 @@
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Arreglos en clase\Arreglos en clase\bin\Debug\Arreglos en clase.exe.config
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Arreglos en clase\Arreglos en clase\bin\Debug\Arreglos en clase.exe
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Arreglos en clase\Arreglos en clase\bin\Debug\Arreglos en clase.pdb
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Arreglos en clase\Arreglos en clase\obj\Debug\Arreglos en clase.csproj.AssemblyReference.cache
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Arreglos en clase\Arreglos en clase\obj\Debug\Arreglos en clase.csproj.CoreCompileInputs.cache
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Arreglos en clase\Arreglos en clase\obj\Debug\Arreglos en clase.exe
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Arreglos en clase\Arreglos en clase\obj\Debug\Arreglos en clase.pdb

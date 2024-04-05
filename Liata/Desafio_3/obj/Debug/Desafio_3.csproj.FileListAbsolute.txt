@@ -1,0 +1,7 @@
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Liata\Desafio_3\bin\Debug\Desafio_3.exe.config
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Liata\Desafio_3\bin\Debug\Desafio_3.exe
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Liata\Desafio_3\bin\Debug\Desafio_3.pdb
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Liata\Desafio_3\obj\Debug\Desafio_3.csproj.AssemblyReference.cache
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Liata\Desafio_3\obj\Debug\Desafio_3.csproj.CoreCompileInputs.cache
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Liata\Desafio_3\obj\Debug\Desafio_3.exe
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Liata\Desafio_3\obj\Debug\Desafio_3.pdb

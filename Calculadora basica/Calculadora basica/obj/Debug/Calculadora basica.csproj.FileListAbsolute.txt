@@ -1,0 +1,7 @@
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Calculadora basica\Calculadora basica\bin\Debug\Calculadora basica.exe.config
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Calculadora basica\Calculadora basica\bin\Debug\Calculadora basica.exe
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Calculadora basica\Calculadora basica\bin\Debug\Calculadora basica.pdb
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Calculadora basica\Calculadora basica\obj\Debug\Calculadora basica.csproj.AssemblyReference.cache
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Calculadora basica\Calculadora basica\obj\Debug\Calculadora basica.csproj.CoreCompileInputs.cache
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Calculadora basica\Calculadora basica\obj\Debug\Calculadora basica.exe
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Calculadora basica\Calculadora basica\obj\Debug\Calculadora basica.pdb

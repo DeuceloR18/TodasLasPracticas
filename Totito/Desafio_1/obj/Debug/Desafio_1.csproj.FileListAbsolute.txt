@@ -1,0 +1,7 @@
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Totito\Desafio_1\bin\Debug\Desafio_1.exe.config
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Totito\Desafio_1\bin\Debug\Desafio_1.exe
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Totito\Desafio_1\bin\Debug\Desafio_1.pdb
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Totito\Desafio_1\obj\Debug\Desafio_1.csproj.AssemblyReference.cache
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Totito\Desafio_1\obj\Debug\Desafio_1.csproj.CoreCompileInputs.cache
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Totito\Desafio_1\obj\Debug\Desafio_1.exe
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Totito\Desafio_1\obj\Debug\Desafio_1.pdb

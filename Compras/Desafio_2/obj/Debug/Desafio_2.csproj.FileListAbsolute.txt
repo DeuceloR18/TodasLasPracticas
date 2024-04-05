@@ -1,0 +1,7 @@
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Compras\Desafio_2\bin\Debug\Desafio_2.exe.config
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Compras\Desafio_2\bin\Debug\Desafio_2.exe
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Compras\Desafio_2\bin\Debug\Desafio_2.pdb
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Compras\Desafio_2\obj\Debug\Desafio_2.csproj.AssemblyReference.cache
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Compras\Desafio_2\obj\Debug\Desafio_2.csproj.CoreCompileInputs.cache
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Compras\Desafio_2\obj\Debug\Desafio_2.exe
+C:\Users\Lahor\Documents\Third Semester\PROGRAMS\Aprendiendo C#\Compras\Desafio_2\obj\Debug\Desafio_2.pdb
